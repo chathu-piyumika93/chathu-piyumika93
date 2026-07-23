@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Chathuri Piyumika 👋
 
-<!--
-**chathu-piyumika93/chathu-piyumika93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Software Engineer | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a Senior Software Engineer with over **8 years of experience** designing and developing scalable, high-performance web applications. I specialize in building secure, maintainable, and user-focused solutions using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- Backend: PHP, Laravel
+- Frontend: React, JavaScript, HTML5, CSS3
+- Databases: MySQL, SQL Server
+- Cloud: Microsoft Azure
+- APIs: RESTful APIs
+- Tools: Git, GitHub, VS Code
+
+### 🌱 Currently Learning
+
+- Docker
+- Kubernetes
+- Azure DevOps
+- CI/CD
+- System Design
+- Advanced React Patterns
+
+### 🎯 Career Goal
+
+I'm actively strengthening my GitHub portfolio and continuously improving my technical and communication skills to pursue Senior Software Engineer opportunities in Germany and the Netherlands.
+
+### 📫 Let's Connect
+
+- LinkedIn: www.linkedin.com/in/chathu-piyumika-83b248193
+- Email: gscpiyumika9@gmail.com
+
+> *"Clean code, continuous learning, and solving real-world problems through technology."*
