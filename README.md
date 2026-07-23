@@ -24,7 +24,7 @@ I'm a Senior Software Engineer with over **8 years of experience** designing and
 
 ### 🎯 Career Goal
 
-I'm actively strengthening my GitHub portfolio and continuously improving my technical and communication skills to pursue Senior Software Engineer opportunities in Germany and the Netherlands.
+To leverage my experience in full-stack development to architect scalable, secure, and maintainable software solutions while continuously learning, mentoring others, and driving technical excellence through clean code and best engineering practices.
 
 ### 📫 Let's Connect
 
